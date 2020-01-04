@@ -1,0 +1,17 @@
+{
+    "name": "parvez/PayMoney",
+    "authors": [
+        {
+            "name": "Top dev",
+            "email": "admin@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "PayMoney": "php-sdk/src/"
+        }
+    }
+}
